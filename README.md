@@ -1,11 +1,6 @@
 # FOD Localization and Mapping
 
 
-<p align="center">
-  <a href="https://arxiv.org/abs/1812.03506"><img src="doc/hloc.png" width="60%"/></a>
-  <br /><em>Hierachical Localization uses both image retrieval and feature matching</em>
-</p>
-
 ##
 
 ## Installation
