@@ -5,7 +5,7 @@
 
 ## Installation
 
-`hloc` requires Python >=3.7 and PyTorch >=1.1. Installing the package locally pulls the other dependencies:
+`This codebase` requires Python >=3.7 and PyTorch >=1.1. Installing the package locally pulls the other dependencies:
 
 ```bash
 git clone --recursive https://github.com/Saddy21/Localization-Bng.git
